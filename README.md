@@ -1,3 +1,5 @@
+# Genshin Impact Wish History Exporter
+
 # 原神祈愿记录导出工具
 
 中文 | [English](https://github.com/biuuu/genshin-wish-export/blob/main/docs/README_EN.md)
